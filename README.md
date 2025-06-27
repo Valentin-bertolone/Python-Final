@@ -2,8 +2,6 @@
 
 En este caso vamos a hacer lo que hace PyCharm por nosotros, ahora podemos hacer esto, si quieres saber más, investiga utilizando el tutor de IA, para que crezcas en tus conocimientos del entorno virtual de Python.
 
-
-
  1. Abrir la terminal de Git Bash o terminal en Linux, debe ser como administrador en Window
 
  2. Creamos una carpeta o directorio: 
@@ -52,7 +50,6 @@ python3 -m pip install --upgrade pip #Actualizamos el pip
 
  13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
 
-
 # ¿Qué es pip?
 pip es el administrador de paquetes de Python para instalar y gestionar bibliotecas desde PyPI (ejemplo: pip install numpy).
 
@@ -63,7 +60,7 @@ Para corregir errores, mejorar seguridad, asegurar compatibilidad y optimizar la
 
 Configuración inicial de un proyecto Python para la última clase del semestre.
 
-## Pasos realizados
+# Pasos realizados
 
 1. Abrir Git Bash como administrador (Windows) o terminal (Linux).
 2. Crear carpeta:
