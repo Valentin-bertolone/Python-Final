@@ -1,4 +1,4 @@
-#Hoy vamos a hacer actividad en Python en un día como programadores:
+# Hoy vamos a hacer actividad en Python en un día como programadores:
 
 En este caso vamos a hacer lo que hace PyCharm por nosotros, ahora podemos hacer esto, si quieres saber más, investiga utilizando el tutor de IA, para que crezcas en tus conocimientos del entorno virtual de Python.
 
